@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\adam hostin\\documents\\qorpoudemy\\ai\\peceptiveaishooter\\peceptiveaishooter\\peceptiveaishooter\\source\\peceptiveaishooter\\peceptiveaishooter.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\adam hostin\\documents\\qorpoudemy\\ai\\peceptiveaishooter\\peceptiveaishooter\\peceptiveaishooter\\intermediate\\build\\win64\\peceptiveaishootereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\adam hostin\\documents\\qorpoudemy\\ai\\peceptiveaishooter\\peceptiveaishooter\\peceptiveaishooter\\intermediate\\build\\win64\\unrealeditor\\development\\peceptiveaishooter\\definitions.peceptiveaishooter.h",
+            "c:\\users\\adam hostin\\documents\\qorpoudemy\\ai\\peceptiveaishooter\\peceptiveaishooter\\peceptiveaishooter\\source\\peceptiveaishooter\\peceptiveaishooter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

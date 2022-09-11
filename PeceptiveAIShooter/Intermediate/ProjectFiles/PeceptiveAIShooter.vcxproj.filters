@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PeceptiveAIShooter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PeceptiveAIShooter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PeceptiveAIShooterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PeceptiveAIShooter">
+      <UniqueIdentifier>{067AAD15-6BE5-3E61-80D5-BFAEFB4D03E7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PeceptiveAIShooter\PeceptiveAIShooter.Build.cs">
+      <Filter>Source\PeceptiveAIShooter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PeceptiveAIShooter\PeceptiveAIShooter.cpp">
+      <Filter>Source\PeceptiveAIShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PeceptiveAIShooter\PeceptiveAIShooter.h">
+      <Filter>Source\PeceptiveAIShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PeceptiveAIShooter\PeceptiveAIShooterGameModeBase.cpp">
+      <Filter>Source\PeceptiveAIShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PeceptiveAIShooter\PeceptiveAIShooterGameModeBase.h">
+      <Filter>Source\PeceptiveAIShooter</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
